@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <name>{$lang->okaycms__gercpay__title}</name>
+    <settings>
+        <variable>gercpay_merchant</variable>
+        <name>{$lang->okaycms__gercpay__merchant}</name>
+    </settings>
+    <settings>
+        <variable>gercpay_secretkey</variable>
+        <name>{$lang->okaycms__gercpay__secretkey}</name>
+    </settings>
+</module>
