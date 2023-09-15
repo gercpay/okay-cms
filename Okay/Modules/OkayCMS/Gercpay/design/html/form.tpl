@@ -1,4 +1,4 @@
-<form method="post" action="https://api.gercpay.com.ua/" accept-charset="utf-8">
+<form method="post" action="https://api.gercpay.com.ua/api/" accept-charset="utf-8">
 <input type="hidden" name="operation"    value="{$operation|escape}">
 <input type="hidden" name="merchant_id"  value="{$merchant_id|escape}">
 <input type="hidden" name="amount"       value="{$amount|escape}">
